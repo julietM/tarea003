@@ -1,0 +1,56 @@
+.cuadros4{
+display: grid;
+grid-template-columns: 150px 150px;
+column-gap: 100px;
+row-gap: 50px;
+margin-left: 280px;
+margin-top: 50px;
+}
+
+.cuadro1{
+    background-color: black;
+    width: 210px;
+    height: 250px;
+ 
+}
+
+.cuadro2{
+    background-color: black;
+    width: 210px;
+    height: 250px;
+}
+
+.cuadro3{
+    background-color: black;
+    width: 210px;
+    height: 250px;
+}
+
+.cuadro4{
+    background-color: black;
+    width: 210px;
+    height: 250px;
+}
+h4{
+    color: white;
+    text-align: center;
+    font-family: Dubai;
+}
+button{
+    
+    background-color: red;
+    color: white;
+    position: relative;
+    top: 98px;
+    left: 40px;
+    font-family: Dubai;
+}
+img{
+    margin-left: 60px;
+    position: absolute;
+}
+form{
+    font-family: Dubai;
+    
+
+}
