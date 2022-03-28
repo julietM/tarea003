@@ -3,8 +3,9 @@ display: grid;
 grid-template-columns: 150px 150px;
 column-gap: 100px;
 row-gap: 50px;
-margin-left: 280px;
+margin-left: 480px;
 margin-top: 50px;
+
 }
 
 .cuadro1{
@@ -51,6 +52,13 @@ img{
 }
 form{
     font-family: Dubai;
+    text-align: center;
+    padding-left: 10px;
     
 
+}
+@media all and (min-width:550px) {
+    .box {
+        background: blue;
+    }
 }
